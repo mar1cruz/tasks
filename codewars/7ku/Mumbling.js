@@ -10,3 +10,5 @@ function accum(s) {
 }
 
 console.log(accum('ZpglnRxqenU'))
+
+//https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
